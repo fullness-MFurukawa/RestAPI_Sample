@@ -1,0 +1,11 @@
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/bin/Debug/net8.0/RestAPI_Sample.Domain.deps.json
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/bin/Debug/net8.0/RestAPI_Sample.Domain.dll
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/bin/Debug/net8.0/RestAPI_Sample.Domain.pdb
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/obj/Debug/net8.0/RestAPI_Sample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/obj/Debug/net8.0/RestAPI_Sample.Domain.AssemblyInfoInputs.cache
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/obj/Debug/net8.0/RestAPI_Sample.Domain.AssemblyInfo.cs
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/obj/Debug/net8.0/RestAPI_Sample.Domain.csproj.CoreCompileInputs.cache
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/obj/Debug/net8.0/RestAPI_Sample.Domain.dll
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/obj/Debug/net8.0/refint/RestAPI_Sample.Domain.dll
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/obj/Debug/net8.0/RestAPI_Sample.Domain.pdb
+/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Apps/RestAPI_Sample.Domain/obj/Debug/net8.0/ref/RestAPI_Sample.Domain.dll

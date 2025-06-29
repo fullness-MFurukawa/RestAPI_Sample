@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "66716vsUdB1IJnpjufZbRVh4coQtClHF5uvNJ5HKn6AMAmLR8ebelAZE06vgCPWVIfwGEcGkTTT3ljJydv9Kqw==",
+  "success": true,
+  "projectFilePath": "/home/ubuntu/CS_Training/RestAPI/RestAPI_Sample/Tests/RestAPI_Sample.Presentation.Tests/RestAPI_Sample.Presentation.Tests.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.aspnetcore.openapi/8.0.17/microsoft.aspnetcore.openapi.8.0.17.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/mstest.testadapter/3.0.4/mstest.testadapter.3.0.4.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/mstest.testframework/3.0.4/mstest.testframework.3.0.4.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
