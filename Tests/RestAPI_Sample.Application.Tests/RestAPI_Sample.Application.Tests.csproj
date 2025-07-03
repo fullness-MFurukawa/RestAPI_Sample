@@ -16,4 +16,8 @@
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Apps\RestAPI_Sample.Application\RestAPI_Sample.Application.csproj" />
+  </ItemGroup>
+
 </Project>
